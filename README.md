@@ -21,3 +21,8 @@ Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_In
 
 ![GitHub Logo](/GlobalTs.png)
 Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/GlobalTs.png)
+
+![GitHub Logo](/decGlobalTs.png)
+Format: ![Alt Text](https://raw.githubusercontent.com/vahidNaghshin/Chapter_1_Introductory_Time_Series_with_R/decGlobalTs.png)
+
+
